@@ -1,0 +1,3 @@
+%% @author Jitendra Agrawal
+%% @doc Functions calculating and converting velocities.
+%% @reference from Introducing Erlang book
