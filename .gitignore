@@ -8,3 +8,7 @@ ebin/*.beam
 rel/example_project
 .concrete/DEV_MODE
 .rebar
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
